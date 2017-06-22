@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouTube Player</string>
+    <string name="play_a_single_video">Play a Single Video</string>
+    <string name="stand_alone_sub_menu">Stand Alone Sub Menu</string>
+    <string name="play_video">Play Video</string>
+    <string name="play_playlist">Play Playlist</string>
+</resources>
