@@ -26,3 +26,16 @@
   - Follows Material Design guidelines
   
   ![classandflowdiagram](https://user-images.githubusercontent.com/16873263/27619889-894743be-5b7a-11e7-96dd-df54c947c94a.png)
+  
+## TaskTimer
+  - Utilizes SQLite database to store task data
+  - Two activities MainActivity and AddEditActivity
+  - Two Fragments MainActivityFragment and AddEditActivityFragment
+  - Support for two pain mode for landscape viewing on phone and better support for tablets
+  - CursorRecyclerViewAdapter that utilizes a ViewHolder
+  - The data package includes TasksContentProvider, TasksContract, and TasksDbHelper
+  - Menus offer the add task functionality
+  - Support for API 16 and beyond
+  - Future goals:
+    - Add better colors to UI
+    - Add features for timing tasks and recording of durations
