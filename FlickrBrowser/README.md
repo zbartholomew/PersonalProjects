@@ -10,3 +10,5 @@
 - Follows Material Design guidelines
 
 ![classandflowdiagram](https://user-images.githubusercontent.com/16873263/27619889-894743be-5b7a-11e7-96dd-df54c947c94a.png)
+
+<img src="https://github.com/zbartholomew/PersonalProjects/blob/master/FlickrBrowser/images/empty_list.png" width="250">  <img src="https://github.com/zbartholomew/PersonalProjects/blob/master/FlickrBrowser/images/search.png" width="250">  <img src="https://github.com/zbartholomew/PersonalProjects/blob/master/FlickrBrowser/images/filled_list_after_search.png" width="250">
