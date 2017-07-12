@@ -39,3 +39,18 @@
   - Future goals:
     - Add better colors to UI
     - Add features for timing tasks and recording of durations
+    
+## RedditLurker
+  - Follows the Model View ViewModel (MVVM) design 
+  - The Libraries used:
+    - **[RxJava 2](https://github.com/ReactiveX/RxJava)** - Mainly for databinding
+    - **[Retrofit](http://square.github.io/retrofit/)** - Reddit API calls
+    - **[Dagger 2](https://google.github.io/dagger/)** - Dependency Injection
+    - **[Picasso](http://square.github.io/picasso/)** - Image Loading
+    - **[AndroidAnnotations](http://androidannotations.org/)** - Reduce boilerplate code
+    - **[Lombok](https://projectlombok.org/setup/android)** - Eliminate getter/setter boilerplate
+  - Retrieves the top posts from Reddit and displays them in an endless scrollable RecyclerView.
+  - Future goals:
+    - Add clickable items that show comments sections
+    - Update UI
+    - Search features
