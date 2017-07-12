@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedditLurker</string>
+    <string name="thumbnail_image_for_post">thumbnail image for post</string>
+    <string name="progressbar">progressBar</string>
+</resources>
