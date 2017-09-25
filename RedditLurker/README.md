@@ -1,5 +1,6 @@
 # RedditLurker
 Follows the Model View ViewModel (MVVM) design 
+
 The Libraries used:
 - **[RxJava 2](https://github.com/ReactiveX/RxJava)** - Mainly for databinding
 - **[Retrofit](http://square.github.io/retrofit/)** - Reddit API calls
