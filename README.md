@@ -54,6 +54,7 @@
     - Add clickable items that show comments sections
     - Update UI
     - Search features
+    
 ## Inventory Management System
 - Backend/Business logic to keep track of inventory levels
 - Unit tests
@@ -61,3 +62,9 @@
 - Future goals:
   - Add front end, where users will be able to login as a picker or restocker to accomplish their job
   - Add SQL database to keep track of inventory levels
+  
+# eCommerceExample
+- Full Stack Web App
+- Utilizes ReactJS front end and NodeJS backend with MongoDB database
+- First ReactJS app to demonstrate a simple eCommerce Website
+
