@@ -68,3 +68,6 @@
 - Utilizes ReactJS front end and NodeJS backend with MongoDB database
 - First ReactJS app to demonstrate a simple eCommerce Website
 
+# Conway's Game of Life - ReactJS
+- https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
